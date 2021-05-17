@@ -1,0 +1,12 @@
+.page {
+	min-height: 90vh;
+}
+.loc i {
+	color: aqua;
+}
+#top-nav {
+	background-color: #288855;
+}
+.pics {
+	max-height: 600px;
+}
